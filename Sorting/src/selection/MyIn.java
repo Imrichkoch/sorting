@@ -1,5 +1,5 @@
 package selection;
 
-public interface myIn {
+public interface MyIn {
 
 }
